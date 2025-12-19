@@ -1,6 +1,8 @@
 # Customer_Behavior_Analysis
 This project presents an interactive Excel dashboard designed to analyze customer demographics, income levels, loyalty, and behavioral patterns to support data-driven customer segmentation and personalization strategies.
 
+![excel alt](https://github.com/Lawal-faruq/Customer_Behavior_Analysis/blob/acb6d2c5c9037424cf1579a9e3ac4f8727e57a2c/Excel%20Dash.png)
+
 ---
 
 ### Project Objective
